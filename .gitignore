@@ -1,3 +1,5 @@
 __pychache__
 venv/
 .env
+.idea
+app.__pychache__
